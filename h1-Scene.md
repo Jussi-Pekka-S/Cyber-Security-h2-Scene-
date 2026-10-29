@@ -24,7 +24,7 @@ Citrix NetScaler vulnerabilities exploited in Finland
 - This happened before Citrix released an security update on the 27th of September 2026.
 - These vulnerabilities enabled denial-of-service attacks, other malicious activities and unauthenticated remote-code execution.
 - NCSC-FI recommended to update immediately the vulnerabilities, investigate and examine to check for anything that seemed out of place or compromised.
-- The important message is “patch and investigate,” not simply “patch.
+- The important message is “patch and investigate,” not simply “patch".
 
 c) Science that
 Link some theory, model or article you read in h1 CyberScience to a blog post or podcast episode you found here. Can you put a fresh security event in the context of larger understanding?
@@ -33,3 +33,5 @@ H1 CyberScience article: https://link.springer.com/content/pdf/10.1186/s40537-02
 - I do not know about an fresh security event in mind, but in general AI is such an growing and driving force in the IT industry at this moment.
 - It leads to many questions about the safe usage of AI, what are the weaknesses related to the usage of IT and how can it be exploited by criminals like hackers for an example.
 - It grows daily so much that It can be hard to keep the Cyber Security up to date, as the weaknesses become more vulnerable without the proper usage of security. 
+
+What will be the future of AI in terms of Cyber Security?
