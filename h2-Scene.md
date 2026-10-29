@@ -34,4 +34,9 @@ H1 CyberScience article: https://link.springer.com/content/pdf/10.1186/s40537-02
 - It leads to many questions about the safe usage of AI, what are the weaknesses related to the usage of IT and how can it be exploited by criminals like hackers for an example.
 - It grows daily so much that It can be hard to keep the Cyber Security up to date, as the weaknesses become more vulnerable without the proper usage of security. 
 
-What will be the future of AI in terms of Cyber Security?
+My thoughts: What will be the future of AI in terms of Cyber Security?
+
+D) Download Debian
+
+<img width="355" height="70" alt="image" src="https://github.com/user-attachments/assets/f41901e1-e7b8-4cfe-9899-fba274c93659" />
+
