@@ -19,11 +19,12 @@ EP 178: UBIQUITI
 b) Blog. Read one article in one of these blogs (Note: yes, just one, single post out of all of these. More is a voluntary bonus task.)
 https://www.kyberturvallisuuskeskus.fi/en/news/citrix-netscaler-vulnerabilities-exploited-finland
 Citrix NetScaler vulnerabilities exploited in Finland
--
--
--
--
--
+
+- The article was released on the 1st day of October in 2026, and It warns that in Finland several critical Gateway vulnerabilities and critical Citrix NetScaler ADC's are being actively exploited. 
+- This happened before Citrix released an security update on the 27th of September 2026.
+- These vulnerabilities enabled denial-of-service attacks, other malicious activities and unauthenticated remote-code execution.
+- NCSC-FI recommended to update immediately the vulnerabilities, investigate and examine to check for anything that seemed out of place or compromised.
+- The important message is “patch and investigate,” not simply “patch.
 
 c) Science that
 Link some theory, model or article you read in h1 CyberScience to a blog post or podcast episode you found here. Can you put a fresh security event in the context of larger understanding?
