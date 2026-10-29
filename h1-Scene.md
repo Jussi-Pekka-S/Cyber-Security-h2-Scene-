@@ -24,6 +24,11 @@ Citrix NetScaler vulnerabilities exploited in Finland
 -
 -
 -
+
 c) Science that
 Link some theory, model or article you read in h1 CyberScience to a blog post or podcast episode you found here. Can you put a fresh security event in the context of larger understanding?
-- 
+H1 CyberScience article: https://link.springer.com/content/pdf/10.1186/s40537-024-00957-y.pdf
+- An blog post related to this one: https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html
+- I do not know about an fresh security event in mind, but in general AI is such an growing and driving force in the IT industry at this moment.
+- It leads to many questions about the safe usage of AI, what are the weaknesses related to the usage of IT and how can it be exploited by criminals like hackers for an example.
+- It grows daily so much that It can be hard to keep the Cyber Security up to date, as the weaknesses become more vulnerable without the proper usage of security. 
